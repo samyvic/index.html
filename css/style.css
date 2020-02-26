@@ -613,8 +613,8 @@ body:after {
 .circle-bg {
   position: relative; }
   .circle-bg:after {
-    width: 300px;
-    height: 300px;
+    width: 0px;
+    height: 0px;
     content: "";
     z-index: -1;
     border-radius: 50%;
